@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brigadires", "Brigadires.csproj", "{84B778BA-5A81-47EE-9B65-70B76B6BA775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B778BA-5A81-47EE-9B65-70B76B6BA775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B778BA-5A81-47EE-9B65-70B76B6BA775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B778BA-5A81-47EE-9B65-70B76B6BA775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B778BA-5A81-47EE-9B65-70B76B6BA775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB237DB9-A1F5-4CC4-B38A-D98B0176AAAA}
+	EndGlobalSection
+EndGlobal
